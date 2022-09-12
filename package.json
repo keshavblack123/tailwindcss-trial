@@ -1,0 +1,24 @@
+{
+  "name": "tailwindcss-trial",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build-css": "tailwindcss build src/styles.css -o public/styles.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/keshavblack123/tailwindcss-trial.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/keshavblack123/tailwindcss-trial/issues"
+  },
+  "homepage": "https://github.com/keshavblack123/tailwindcss-trial#readme",
+  "dependencies": {
+    "live-server": "^1.1.0",
+    "tailwindcss": "^3.1.8"
+  }
+}
